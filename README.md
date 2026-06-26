@@ -32,7 +32,7 @@ A simple command-line **Guess the Number Game** built with Python. The computer 
 
 3. Run the program:
    ```bash
-   python guess_number.py
+   python main.py
    ```
 
 ## 💻 Sample Output
@@ -65,4 +65,3 @@ Guess the number: 68
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
